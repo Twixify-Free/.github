@@ -2,7 +2,7 @@
 
 <a target="_blank" href="https://main.twixify.com/register?via=new">Click here to have free access !</a>
 
-<img src:"https://i.ytimg.com/vi/PcdEjpW5qig/maxresdefault.jpg" />
+<img src="https://i.ytimg.com/vi/PcdEjpW5qig/maxresdefault.jpg" />
 
 <a target="_blank" href="https://main.twixify.com/register?via=new">Click here to have free access !</a>
 
