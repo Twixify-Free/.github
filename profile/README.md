@@ -2,22 +2,6 @@
 
 <a target="_blank" href="https://main.twixify.com/register?via=new">Click here to have free access !</a>
 
-<a target="_blank" href="https://main.twixify.com/register?via=new" style="
-  display: inline-block;
-  background-color: #007BFF;
-  color: white;
-  padding: 12px 24px;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
-  font-size: 16px;
-  transition: background-color 0.3s ease;
-">
-  Click here to have free access!
-</a>
-
-<button type="button">Clique ici</button>
-
 <img src="https://i.ytimg.com/vi/PcdEjpW5qig/maxresdefault.jpg"
   alt="bypass AI detectors with Twixify"
   width="800"
