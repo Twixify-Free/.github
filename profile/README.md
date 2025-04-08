@@ -2,6 +2,8 @@
 
 <a target="_blank" href="https://main.twixify.com/register?via=new">Click here to have free access !</a>
 
+<button type="button">Clique ici</button>
+
 <img src="https://i.ytimg.com/vi/PcdEjpW5qig/maxresdefault.jpg"
   alt="bypass AI detectors with Twixify"
   width="800"
